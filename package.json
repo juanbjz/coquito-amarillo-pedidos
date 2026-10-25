@@ -1,0 +1,8 @@
+{
+  "name": "coquito-amarillo-pedidos",
+  "version": "1.0.0",
+  "description": "Captura y persistencia de pedidos (CSV + MySQL) - Coquito Amarillo S.A.S.",
+  "main": "servidor.js",
+  "scripts": { "start": "node servidor.js" },
+  "dependencies": { "express": "^4.19.2", "mysql2": "^3.11.0" }
+}
